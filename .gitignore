@@ -1,5 +1,7 @@
 # Never commit real credentials
 .env
+.oci_setup.env
+.oci/
 
 # Backup archives
 *.tar.gz
